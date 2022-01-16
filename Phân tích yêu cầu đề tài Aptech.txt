@@ -27,6 +27,6 @@ CÁC KỊCH BẢN CẦN CÓ:
 
 =======================================================================================================================
 Bố cục:
-- Header: Home, Contact us, Feedback, Login, Register, Year-wise listing
-- Body: Section of virus
+- Header: (lấy thêm hàng đầu tiên chèn hình ảnh về hình con virus rồi, nếu kích vào thì nó vẫn trả về như home)Home, Contact us, Feedback, Login, Register, Year-wise listing, (anh nghĩ thêm cả chức năng search)
+- Body: Section of virus (các loại virus mới nhất, một so loại được quan tâm nhất hiện nay), (hình ảnh lấy minh họa cho từng virus thì trông sáng sủa hơn)
 - Footer: Contact us (Address, Phone number, email, location on map)
